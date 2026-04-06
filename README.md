@@ -1,1 +1,0 @@
-# Automated-Malignant-Region-Segmentation-in-Breast-Ultrasound-Images
